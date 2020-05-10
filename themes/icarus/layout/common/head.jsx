@@ -114,7 +114,7 @@ module.exports = class extends Component {
 
             {typeof open_graph === 'object' && open_graph !== null ? <OpenGraph
                 type={open_graph.type || (is_post(page) ? 'article' : 'website')}
-                title={open_graph.title || page.title || config.title}
+                title={open_graph.title ? open_graph.title + " - " + config.title : page.title ? page.title + " - " + config.title : config.title}
                 date={page.date}
                 updated={page.updated}
                 author={open_graph.author || config.author}
