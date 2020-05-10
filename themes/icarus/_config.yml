@@ -73,11 +73,11 @@ head:
 # Page top navigation bar configurations
 navbar:
     # Naviagtion menu items
-    # menu:
-    #     Home: /
-    #     Archives: /archives
-    #     Categories: /categories
-    #     Tags: /tags
+    menu:
+        ホーム: /
+        アーカイブ: /archives
+        # Categories: /categories
+        # Tags: /tags
     #     About: /about
     # Links to be shown on the right of the navigation bar
     links:
@@ -235,7 +235,7 @@ widgets:
     # Archives widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: ritght
+        position: right
         type: archives
     # Tags widget configurations
     -
