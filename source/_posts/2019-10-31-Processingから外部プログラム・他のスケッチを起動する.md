@@ -1,7 +1,8 @@
 ---
 title: Processingから外部プログラム・他のスケッチを起動する
 date: 2019-10-31 16:35:50
-tags:
+category: 技術ネタ
+tags: Processing
 ---
 
 過去記事の再掲です。

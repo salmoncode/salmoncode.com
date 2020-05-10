@@ -1,12 +1,15 @@
 ---
 title: ProcessingでSQLiteを扱う
 date: 2019-10-30 16:27:08
-tags:
+category: 技術ネタ
+tags: Processing
 ---
 
 過去記事の再掲です。
 
 Processingでデータベースを扱うライブラリを使い、SQLiteにアクセスしてみる。
+
+<!-- more -->
 
 ## 準備
 

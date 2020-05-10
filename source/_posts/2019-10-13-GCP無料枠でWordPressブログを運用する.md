@@ -1,7 +1,10 @@
 ---
 title: GCP無料枠でWordPressブログを運用する
 date: 2019-10-13 15:17:11
+category: ブログ運営
 tags:
+- GCP
+- WordPress
 ---
 
 このブログはGoogle Cloud Platform(GCP)の無料枠で利用できるCompute Engineのインスタンスを使って運用しています。今回はその方法を説明します。
