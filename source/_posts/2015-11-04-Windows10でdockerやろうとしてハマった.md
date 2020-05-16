@@ -39,7 +39,7 @@ error: Failed to create the host-only adapter
 
 しょうがないのでまたググってみるとこの記事にたどり着いた
 
-<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fkobarn%2F20150805" title="Vagrantでのhost-only adapterのエラーを回避する方法 on Windows10" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://d.hatena.ne.jp/kobarn/20150805">d.hatena.ne.jp</a></cite>
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fkobarn%2F20150805" title="Vagrantでのhost-only adapterのエラーを回避する方法 on Windows10" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://d.hatena.ne.jp/kobarn/20150805">d.hatena.ne.jp</a></cite>
 
 Windows10が悪いんか…
 解決法はあるようなので、その通りにexeファイルをダウンロード、起動したままさっきのコマンドを打ったら見事にエラーは消え去った

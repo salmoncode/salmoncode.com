@@ -10,7 +10,7 @@ category: Wordpress
 
 テーマの変更に伴って前から気になっていたパーマリンクの設定をしておこうということになった。
 以前までは
-<a href="http://salmon2073.net?p=xxx">http://salmon2073.net?p=xxx</a>
+<a href="https://salmon2073.net?p=xxx">https://salmon2073.net?p=xxx</a>
 だったのだが、これはイマイチかっこ悪い。あと、SNSでリンクを共有したりするときにアドレスからだいたいどんなことを書いているのか分かったほうがいいだろうと思ったので、
 
 http;//salmon2073.net/%postname%

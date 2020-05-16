@@ -18,7 +18,7 @@ tags:
 
 いままで「はてなスター」は「はてなブログ」限定の機能だと思っていたのですが、どうやら外部のブログにも貼り付けることができるようです。
 
-http://developer.hatena.ne.jp/ja/documents/star/misc/hatenastarjs
+https://developer.hatena.ne.jp/ja/documents/star/misc/hatenastarjs
 
 参考記事の手順に沿ってはてなスターを設置します。
 wordpressの場合、トークン設定を`header.php`に記述して、`Hatena.Star.SiteConfig`は`single.php`に記述すると、記事のページのみに表示できます。

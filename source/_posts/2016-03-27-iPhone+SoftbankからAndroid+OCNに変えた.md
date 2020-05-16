@@ -1,7 +1,7 @@
 ---
 title: iPhone+SoftbankからAndroid+OCNに変えた
 date: 2016-03-27 14:03:36
-thumbnail: http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/20160326155637.jpg
+thumbnail: https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/20160326155637.jpg
 ---
 
 ## キャリアを変える
@@ -18,7 +18,7 @@ thumbnail: http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/2
 
 いくつかのプランを吟味した結果，やはりOCNモバイルONEに決定．ちょうどGEOで初期費用500円セールがやっていたのでそれを利用して購入した．
 
-<span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/20160326155637.jpg" alt="f:id:salmon2073:20160326155637j:plain" title="f:id:salmon2073:20160326155637j:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="https://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/20160326155637.jpg" alt="f:id:salmon2073:20160326155637j:plain" title="f:id:salmon2073:20160326155637j:plain" class="hatena-fotolife" itemprop="image"></span>
 
 ## 端末を変える
 
@@ -28,7 +28,7 @@ thumbnail: http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160326/2
 
 まだまだ使えると思うけど，simロックがかかってるのでよくあるドコモ回線のMVNOでは使用できないらしい．いい機会なので，Android端末を購入することにした．
 
-<span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160327/20160327133945.jpg" alt="f:id:salmon2073:20160327133945j:plain" title="f:id:salmon2073:20160327133945j:plain" class="hatena-fotolife" itemprop="image"></span>　
+<span itemscope itemtype="https://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160327/20160327133945.jpg" alt="f:id:salmon2073:20160327133945j:plain" title="f:id:salmon2073:20160327133945j:plain" class="hatena-fotolife" itemprop="image"></span>　
 端末はNexus5Xにした．どうせなら最新のOSが使えるものがいいよね．
 
 ## 結論

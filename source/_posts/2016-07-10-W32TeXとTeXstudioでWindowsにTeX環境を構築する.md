@@ -16,7 +16,7 @@ TeXで文章を書いてPDFを出力できるようにするには，
 
 以下のサイトにインストール方法が詳しく書いてある．
 
-<a href="http://did2memo.net/2016/04/24/easy-latex-install-windows-10-2016-04/">&#x7C21;&#x5358;LaTeX&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;Windows&#x7DE8;&#xFF08;2016&#x5E74;4&#x6708;&#x7248;&#xFF09;</a>
+<a href="https://did2memo.net/2016/04/24/easy-latex-install-windows-10-2016-04/">&#x7C21;&#x5358;LaTeX&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;Windows&#x7DE8;&#xFF08;2016&#x5E74;4&#x6708;&#x7248;&#xFF09;</a>
 
 ※2016年7月現在，W32TeXのダウンロード元が上から2番目になっているが，そのままだと情報取得に失敗するので3番目に変更する．
 
@@ -25,7 +25,7 @@ TeXで文章を書いてPDFを出力できるようにするには，
 
 以下のリンクから最新版をダウンロードして手順通りに進めればok．
 
-<a href="http://www.texstudio.org/">TeXstudio</a>
+<a href="https://www.texstudio.org/">TeXstudio</a>
 
 TeXstudioはインストール後にすこしだけ設定を変える必要がある．
 

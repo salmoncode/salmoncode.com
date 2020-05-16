@@ -90,10 +90,10 @@ void draw() {<br />  background(0);<br />  fill(z);<br />  ellipse(x, y, x*5,
   if (z &gt;= 255) {<br />    z = 255;<br />  }<br />}
 上記のプログラムでは、図形を描くまえにbackground();をいれることで残像を消している。色の塗りつぶしはグレースケールにして変数に置き換え、最後の条件文でzが255以上にならないようにしている。
 条件文の書き方については、今までの記事を見て欲しい。
-<a href="http://salmon2073.hatenablog.com/entry/2013/12/24/163913">プログラミングにおける演算・条件・繰り返し - 鮭の水槽</a>
+<a href="https://salmon2073.hatenablog.com/entry/2013/12/24/163913">プログラミングにおける演算・条件・繰り返し - 鮭の水槽</a>
  
 ## 終わりに
 今回までの知識で、いろんなアニメーションをつくれるようになる。
 皆さんは既に基本一通り（人によるが）を終えており、あとは組み合わせ方や便利な機能を使って好きなプログラムを組んでいくことが大事である。
 Processingのリファレンスもページには、このブログで扱わなかった命令などがたくさん乗っているので、ぜひ確認して欲しい。
-<a href="http://processing.org/reference/">Language Reference (API) \ Processing 2+</a>
+<a href="https://processing.org/reference/">Language Reference (API) \ Processing 2+</a>

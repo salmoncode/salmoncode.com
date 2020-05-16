@@ -10,7 +10,7 @@ Processingをはじめるのは簡単である。
  
 ## Processingの導入方法
 まず、公式ホームページへ行く。
-<a href="http://processing.org/">Processing.org</a>
+<a href="https://processing.org/">Processing.org</a>
 左サイドバーの一番上のDownloadをクリック。
 No Donationを選んで中央部のDownloadをクリックしよう。
 上部の一覧から、自分のPCのOSと同じものを選ぶ。
@@ -18,7 +18,7 @@ No Donationを選んで中央部のDownloadをクリックしよう。
  
 ## 起動してみる
 processing.exeから起動する。
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223113732j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223113732.jpg" alt="f:id:salmon2073:20131223113732j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223113732j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223113732.jpg" alt="f:id:salmon2073:20131223113732j:plain" /></span>
 このような画面が表示されていれば成功である。
 このテキストスペースがプログラミング記述部で、再生ボタンが実行部である。
  

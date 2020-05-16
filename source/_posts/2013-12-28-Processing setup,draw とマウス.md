@@ -92,7 +92,7 @@ mouseY　マウスのｙ座標
 <span style="color: #00cccc;">void</span> <span style="color: #0000cc;">draw</span>() {<br /> <span style="color: #0000cc;"> background</span>(255);<br />  <span style="color: #0000cc;">ellipse</span>(<span style="color: #cc00cc;">mouseX</span>, <span style="color: #cc00cc;">mouseY</span>, 30, 30);<br />}
 上記をコピペしてもいいが、要するにellipse();の前にbackground();を記述するだけである。
 色についてはこちらを見ていただきたい。
-<a href="http://salmon2073.hatenablog.com/entry/2013/12/23/154412">Processingでスケッチ（２） - 鮭の水槽</a>
+<a href="https://salmon2073.hatenablog.com/entry/2013/12/23/154412">Processingでスケッチ（２） - 鮭の水槽</a>
  
 ## マウスを使って色を変える
 色の話題が出てきたところで、背景色をマウスの位置によってかえるプログラムを考えてみよう。

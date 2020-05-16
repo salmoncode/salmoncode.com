@@ -17,7 +17,7 @@ processingで画像を表示するには、まずスケッチに画像をドラ�
 
 実行結果は以下のようになる
 
-<img src="http://www5469up.sakura.ne.jp/file/Girl.png" alt="そのままの画像" />
+<img src="https://www5469up.sakura.ne.jp/file/Girl.png" alt="そのままの画像" />
 
 ## 画像のサイズについて
 
@@ -40,7 +40,7 @@ processingの場合、画像ファイル自体のデータを扱うよりも、�
 
 実行結果は以下のようになる
 
-<img src="http://www5469up.sakura.ne.jp/file/Girl_reverse.png" alt="反転した画像" />
+<img src="https://www5469up.sakura.ne.jp/file/Girl_reverse.png" alt="反転した画像" />
 
 続いて2値化してみよう。get() から得られたRGBを求め、任意の値より小さければ黒、大きければ白にセットする。 画像を2値化するコードは以下のようになる。
 
@@ -48,7 +48,7 @@ processingの場合、画像ファイル自体のデータを扱うよりも、�
 
 実行結果は以下のようになる
 
-<img src="http://www5469up.sakura.ne.jp/file/Girl_grayScale.png" alt="反転した画像" />
+<img src="https://www5469up.sakura.ne.jp/file/Girl_grayScale.png" alt="反転した画像" />
 
 輝度については以下のページに詳しく書いてある。
 

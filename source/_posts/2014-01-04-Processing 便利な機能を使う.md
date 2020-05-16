@@ -20,7 +20,7 @@ Ctrl + V　…　ペースト（貼り付け）
 続いてタブ機能を紹介しよう。
 Processingでは、ブラウザのようにタブを作ることができ、そこに記述したプログラムは一つの同じプログラムとして扱われる。ちなみに、保存されるファイルは複数に分かれる。
 プログラムを機能ごと（多くの場合は関数やクラスごと）に分けることで、目的の箇所を素早く見つけられるようにできる。
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131229113018j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131229/20131229113018.jpg" alt="f:id:salmon2073:20131229113018j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131229113018j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131229/20131229113018.jpg" alt="f:id:salmon2073:20131229113018j:plain" /></span>
 上の画像で赤丸のところをクリック
 New tab を選ぶ
 上の画像の状態になるので、名前を入力してOK

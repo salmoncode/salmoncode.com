@@ -22,7 +22,7 @@ BIOSの設定から「Virtualization technologies」というのをenableにす�
 BIOSのメニューといえばPCの起動のときにファンクションキーのどれかを押して入れるものだと記憶していたのだが、windows8では違うらしい。
 「設定」->「PCの設定の変更」->「保守と管理」->「回復」と辿り、「PCの起動をカスタマイズする」の「今すぐ再起動」を選び、再起動する。
 
-<img src="http://salmon2073.net/wp/wp-content/img/setting2.png">
+<img src="https://salmon2073.net/wp/wp-content/img/setting2.png">
 
 再起動すると見慣れない画面が表示される。
 「トラブルシューティング」->「詳細設定」と辿り、「UEFIファームウェアの設定」を選ぶ。

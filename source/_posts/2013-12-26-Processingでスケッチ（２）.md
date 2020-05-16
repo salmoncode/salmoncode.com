@@ -2,12 +2,12 @@
 title: Processingでスケッチ（２）
 date: 2013-12-26 15:44:12
 category: Processing
-thumbnail: http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223164309.jpg
+thumbnail: https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223164309.jpg
 ---
 
 ## はじめに
 前の記事で図形を描く方法を述べた。
-<a href="http://salmon2073.hatenablog.com/entry/2013/12/23/145446">Processingでスケッチ - 鮭の水槽</a>
+<a href="https://salmon2073.hatenablog.com/entry/2013/12/23/145446">Processingでスケッチ - 鮭の水槽</a>
 今回はこれらに色を付けていこうと思う。
  
 ## Processingにおける「色」
@@ -20,7 +20,7 @@ Processingでは、色は赤、緑、青を混ぜて作るRGB方式がデフォ�
 命令
 
 <span style="color: #0000cc;">fill</span>( R の数値, Gの数値 , Bの数値 );
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223164309j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223164309.jpg" alt="f:id:salmon2073:20131223164309j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223164309j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223164309.jpg" alt="f:id:salmon2073:20131223164309j:plain" /></span>
 この命令の後に描いた図形はすべて指定した色で塗りつぶされる。
 各値の最大値は255で、値が大きければ大きいほどその要素が強くなる。
 例えば、fill(255,0,0);ならば赤になる。
@@ -43,7 +43,7 @@ Processingでは、色は赤、緑、青を混ぜて作るRGB方式がデフォ�
 命令
 
 <span style="color: #0000cc;">background</span>( R , G , B );
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223165156j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223165156.jpg" alt="f:id:salmon2073:20131223165156j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223165156j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223165156.jpg" alt="f:id:salmon2073:20131223165156j:plain" /></span>
 実は、この命令が実行されるとそれまで描かれていた図形も塗りつぶされてしまう。図形を描く前に記述しよう。
  
 ## 塗りつぶさない
@@ -52,7 +52,7 @@ Processingでは、色は赤、緑、青を混ぜて作るRGB方式がデフォ�
 命令
 
 <span style="color: #0000cc;">noFill</span>(); 
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223170527j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223170527.jpg" alt="f:id:salmon2073:20131223170527j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223170527j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223170527.jpg" alt="f:id:salmon2073:20131223170527j:plain" /></span>
 パラメーター（数値）はない。つまり、上記をそのままコピペしてもよい。
  
 ## Processingにおける単語の区別
@@ -69,7 +69,7 @@ fill(255,0,0,0);
 とすると、透明になる。
 fill(255,0,0,100);
 とすると、半透明のようになる。
-<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223165538j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223165538.jpg" alt="f:id:salmon2073:20131223165538j:plain" /></span>
+<span><img class="hatena-fotolife" title="f:id:salmon2073:20131223165538j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20131223/20131223165538.jpg" alt="f:id:salmon2073:20131223165538j:plain" /></span>
  
 ## 終わりに
 今回は内容が多く、初めて読む人にとっては少々重かったかもしれない。

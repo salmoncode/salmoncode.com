@@ -11,7 +11,7 @@ processingでmidiを扱う方法はいくつかあるが、僕が今まで使っ
 
 まずは以下のページからライブラリをダウンロードしよう。
 
-<a href="http://creativecomputing.cc/p5libs/promidi/">proMIDI</a>
+<a href="https://creativecomputing.cc/p5libs/promidi/">proMIDI</a>
 
 展開してlibraryフォルダの中のpromidi.jarをprocessingのスケッチにドラッグ＆ドロップ。
 念のためスケッチを保存しておこう。

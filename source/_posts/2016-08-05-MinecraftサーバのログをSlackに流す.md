@@ -30,7 +30,7 @@ minecraft_server.jarを設置しているディレクトリと同じ階層に以
 <script src="https://gist.github.com/salmon2073/5e745965f9b936cb086bdf19df2a8a65.js"></script>
 
 slackのアクセストークンを取得してきて書き換える．アクセストークンの取得方法は例えば以下の記事を参考にするとよい．
-<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fjoesbar.blog.jp%2Farchives%2F1059092482.html" title="Slackでボットを作る　カスタムボット連携編 : じょえずブログ" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://joesbar.blog.jp/archives/1059092482.html">joesbar.blog.jp</a></cite>
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fjoesbar.blog.jp%2Farchives%2F1059092482.html" title="Slackでボットを作る　カスタムボット連携編 : じょえずブログ" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://joesbar.blog.jp/archives/1059092482.html">joesbar.blog.jp</a></cite>
 
 チャンネル名を書き換えよう．結構な量のログが流れるので，専用のチャンネルを新しく作るのがおススメ．
 通知したいチャンネルにbotがいるか確認することを忘れずに．
@@ -44,5 +44,5 @@ slackのアクセストークンを取得してきて書き換える．アクセ
 うちの鯖のメンバーには今のところ好評である．メモ機能としても活躍している．
 他の人がプレイしている情報を見るとついつい自分もやりたくなってしまうので，時間を溶かしすぎないようにしなければ．
 
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160805/20160805235700.png" alt="f:id:salmon2073:20160805235700p:plain" title="f:id:salmon2073:20160805235700p:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="https://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/salmon2073/20160805/20160805235700.png" alt="f:id:salmon2073:20160805235700p:plain" title="f:id:salmon2073:20160805235700p:plain" class="hatena-fotolife" itemprop="image"></span>
 

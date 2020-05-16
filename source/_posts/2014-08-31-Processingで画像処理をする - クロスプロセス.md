@@ -26,7 +26,7 @@ TwitterやFacebookなどへスマホの写真を投稿する時に画像を「�
 
 こちらは専用のフィルターが用意されていて、非常にクロスプロセスっぽい画像ができあがる。ただ輝度をいじったりするのとは違い、独特の雰囲気が好まれているようだ。
 
-<a href="http://instagram.com/">Instagram</a>
+<a href="https://instagram.com/">Instagram</a>
 
 ## Processingでクロスプロセス
 
@@ -94,11 +94,11 @@ xcが入力でycが出力である。kc,bcがパラメータとなり、それ�
 
 処理前
 
-<img src="http://www5469up.sakura.ne.jp/file/before_process.png" alt="" />
+<img src="https://www5469up.sakura.ne.jp/file/before_process.png" alt="" />
 
 処理後
 
-<img src="http://www5469up.sakura.ne.jp/file/after_process.png" alt="" />
+<img src="https://www5469up.sakura.ne.jp/file/after_process.png" alt="" />
 
 ## 終わりに
 
