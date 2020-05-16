@@ -153,7 +153,7 @@ module.exports = class extends Component {
 
             {adsenseClientId ? <script data-ad-client={adsenseClientId}
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async={true}></script> : null}
-            <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+            <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
             {/* <script type="text/javascript"> Hatena.Star.Token = {`'6dec52c5f7e8fccda51ed8610a03c30a76245f0f'`} </script> */}
             <script type="text/javascript" dangerouslySetInnerHTML={{ __html: "Hatena.Star.Token = '6dec52c5f7e8fccda51ed8610a03c30a76245f0f'" }}></script>
         </head>;
