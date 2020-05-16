@@ -74,7 +74,7 @@ module.exports = class extends Component {
                     {/* Title */}
                     <h1 class="title is-3 is-size-4-mobile">
                         {index ? <a class="link-muted" href={url_for(page.link || page.path)}>{page.title}</a> : page.title}
-                        {!index ? <a href={url_for(page.link)}></a> : null}
+                        {!index ? <a href={url_for(page.path)}></a> : null}
                     </h1>
                     {/* Content/Excerpt */}
                     {!index ? <div class="share-buttons">
