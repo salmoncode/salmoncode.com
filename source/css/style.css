@@ -1,3 +1,31 @@
 .share-buttons {
     margin: 1rem 0;
 }
+
+.hatena-star-add-button {
+  height:20px;
+}
+
+.hatena-big-star-star-container {
+  display: inline-block;
+  position: relative;
+  margin: 2px;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.hatena-big-star-star-container>.hatena-star-star {
+  position: absolute;
+  bottom: 0;
+  background: hsla(0,0%,100%,.8);
+  border-top-right-radius: 3px;
+}
+
+.hatena-big-star-star-container>.hatena-star-user {
+  position: absolute;
+  max-width: 100%;
+  width:100%;
+}

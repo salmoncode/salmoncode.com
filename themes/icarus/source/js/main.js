@@ -199,4 +199,20 @@
             }
         }
     }
+
+    window.addEventListener("load", () => {
+        document.querySelector(".hatena-star-add-button").src = "https://cdn.blog.st-hatena.com/images/theme/star/hatena-star-add-button.svg"
+
+        const starContainer = document.querySelector(".hatena-star-star-container");
+        const observer = new MutationObserver(e => {
+            Array.from(document.querySelectorAll(".hatena-star-star")).forEach(star => {
+                star.outerHTML =
+                    `<span class="hatena-big-star-star-container">
+           <img src="https://cdn.profile-image.st-hatena.com/users/${star.alt}/profile.png" tabindex="0" class="hatena-star-user" style="padding: 0px; border: none;">
+           <img src="https://s.hatena.ne.jp/images/star.gif" tabindex="0" class="hatena-star-star" style="padding: 0px; border: none;" alt="${star.alt}" title="">
+         </span>`
+            })
+        })
+        observer.observe(starContainer, { childList: true })
+    })
 }(jQuery, window.moment, window.ClipboardJS, window.IcarusThemeSettings));
