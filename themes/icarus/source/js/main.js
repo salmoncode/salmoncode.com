@@ -189,4 +189,14 @@
             link.target = '_blank';
         });
     }
+
+    Hatena.Star.SiteConfig = {
+        entryNodes: {
+            'article': {
+                uri: "h1 a",
+                title: "h1",
+                container: 'div.hatena-container'
+            }
+        }
+    }
 }(jQuery, window.moment, window.ClipboardJS, window.IcarusThemeSettings));

@@ -144,6 +144,7 @@ module.exports = class extends Component {
             {rss ? <link rel="alternative" href={url_for(rss)} title={config.title} type="application/atom+xml" /> : null}
             {favicon ? <link rel="icon" href={url_for(favicon)} /> : null}
             <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400&display=swap" rel="stylesheet"></link>
+            <link rel="stylesheet" href="/css/style.css" />
             <link rel="stylesheet" href={iconcdn()} />
             {hlTheme ? <link rel="stylesheet" href={cdn('highlight.js', '9.12.0', 'styles/' + hlTheme + '.css')} /> : null}
             <link rel="stylesheet" href={fontCssUrl[variant]} />
@@ -152,6 +153,9 @@ module.exports = class extends Component {
 
             {adsenseClientId ? <script data-ad-client={adsenseClientId}
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async={true}></script> : null}
+            <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+            {/* <script type="text/javascript"> Hatena.Star.Token = {`'6dec52c5f7e8fccda51ed8610a03c30a76245f0f'`} </script> */}
+            <script type="text/javascript" dangerouslySetInnerHTML={{ __html: "Hatena.Star.Token = '6dec52c5f7e8fccda51ed8610a03c30a76245f0f'" }}></script>
         </head>;
     }
 };
