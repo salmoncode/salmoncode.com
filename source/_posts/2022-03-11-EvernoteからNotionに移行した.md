@@ -1,6 +1,6 @@
 ---
 title: EvernoteからNotionに移行した
-date: 2022-03-1 22:30:40
+date: 2022-03-01 22:30:40
 category: 日記
 tags:
 ---
